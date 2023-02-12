@@ -12,7 +12,7 @@
             3. Thêm/sửa/xóa/xem nhân viên
             4. Xem được dashboard, tin tức, liên hệ, Khoa, Profile
     Dean:
-        tk: zzz@gmail.com
+        tk: dean@gmail.com
         mk: 123456789
         Chức năng:
             1. Chỉnh sửa thông tin cá nhân 
@@ -20,7 +20,7 @@
             3. Thêm/sửa/xóa/xem nhân viên
             4. Xem được dashboard, tin tức, liên hệ, Khoa, Profile
     Staff:
-        tk: aaa@gmail.com
+        tk: staff@gmail.com
         mk: 123456
         Chức năng:
             1. Chỉnh sửa thông tin cá nhân 
