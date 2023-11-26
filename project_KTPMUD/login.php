@@ -59,7 +59,7 @@
             <div class="main__form">
                 <div class="main__form--title text-center">Sign In</div>
                 <div class="social-container">
-                    <a href="https://www.facebook.com/hqhuy.bk/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0" class="social"><i class="ti-facebook"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100053764159648" class="social"><i class="ti-facebook"></i></a>
                     <a href="#" class="social"><i class="ti-google"></i></a>
                     <a href="#" class="social"><i class="ti-linkedin"></i></a>
 			    </div>
